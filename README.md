@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey 👋, I'm Anubhav
+
+![](https://komarev.com/ghpvc/?username=anubhav14g&color=blueviolet)
+
+
+### I'm a developer, programmer & blogger
+-  ⚡ I m a full stack developer (MERN stack) who likes to write logic 
+-  ⚡ Loves to play badminton and to explore new things
+-  ⚡ Writes technical blogs
+-  ⚡ I do competitive programming also
+-  ⚡ How to reach me: anubhav1408sks@gmail.com
 
 <!--
 **anubhav14g/anubhav14g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
