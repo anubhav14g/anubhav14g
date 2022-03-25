@@ -24,4 +24,4 @@
 -  📫 https://anubhavg.hashnode.dev/load-balancer-vs-reverse-proxy-an-easy-overview
 -  📫 https://anubhavg.hashnode.dev/proxy-vs-reverse-proxy-what-is-vpn
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav14g&theme=onedark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav14g&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
