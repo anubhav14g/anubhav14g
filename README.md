@@ -1,5 +1,4 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anubhav
-### Hey 👋, I'm Anubhav
 
 ![](https://komarev.com/ghpvc/?username=anubhav14g&color=blueviolet)
 
@@ -25,4 +24,4 @@
 -  📫 https://anubhavg.hashnode.dev/load-balancer-vs-reverse-proxy-an-easy-overview
 -  📫 https://anubhavg.hashnode.dev/proxy-vs-reverse-proxy-what-is-vpn
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<anubhav14g>&theme=<THEME_NAME>" />
