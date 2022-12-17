@@ -7,6 +7,7 @@
 -  ⚡ Always passionate to write logic 
 -  ⚡ I do problem solving and loves to do competitive programming 
 -  ⚡ Self-taught full stack developer who likes to write clean & well-tested JS code
+-  ⚡ I have good knowledge of Data Structures and Algorithms and always learning them to make it more strong.
 -  ⚡ Loves to play badminton and to explore new things
 -  ⚡ Writes technical blogs
 -  ⚡ Where to read my blogs: https://anubhavg.hashnode.dev
