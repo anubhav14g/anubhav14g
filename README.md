@@ -4,6 +4,7 @@
 
 
 ### I'm a coder, blogger, developer & learner
+-  ⚡ Currently working as R&D Engineer at Samsung India
 -  ⚡ Always passionate to write logic 
 -  ⚡ I do problem solving and loves to do competitive programming 
 -  ⚡ Self-taught full stack developer who likes to write clean & well-tested JS code
